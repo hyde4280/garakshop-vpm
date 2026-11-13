@@ -1,0 +1,16 @@
+{
+    "name": "Garak's Shop VPM",
+    "id": "jp.garakshop.vpm",
+    "url": "https://hyde4280.github.io/garakshop-vpm/index.json",
+    "author": {
+        "email": "8047078+hyde4280@users.noreply.github.com",
+        "name": "Garak's Shop",
+        "url": "https://github.com/hyde4280"
+    },
+    "description": "VRChat world tools by Garak's Shop (VPM packages for the VRChat Creator Companion).",
+    "infoLink": {
+        "url": "https://github.com/hyde4280/garakshop-vpm",
+        "text": "View on GitHub"
+    },
+    "githubRepos": []
+}
