@@ -5,12 +5,12 @@ VPM (VRChat Package Manager) listing for the VRChat Creator Companion (VCC). Pac
 ## Add to VCC
 
 - Listing URL: `https://hyde4280.github.io/garakshop-vpm/index.json`
-- One click: [Add to VCC](vcc://vpm/addRepo?url=https%3A%2F%2Fhyde4280.github.io%2Fgarakshop-vpm%2Findex.json)
+- One click: open the [listing page](https://hyde4280.github.io/garakshop-vpm/) in a browser on a PC where the VCC is installed, then press **Add to VCC**. (GitHub does not make `vcc://` links clickable in a README, so the button lives on that page.)
 - Or in the VCC: Settings > Packages > Add Repository, then paste the listing URL.
 
 ## Packages
 
-None are listed yet. Planned: `jp.garakshop.cellloader`, `jp.garakshop.elevator`, `jp.garakshop.shower`. Each package lives in its own public repository (released from a development repository with `git subtree split`) and is added to `githubRepos` in `source.json`.
+Listed: `jp.garakshop.shower` ([repository](https://github.com/hyde4280/jp.garakshop.shower)). Planned: `jp.garakshop.cellloader`, `jp.garakshop.elevator`. Each package lives in its own public repository (released from a development repository with `git subtree split`) and is added to `githubRepos` in `source.json`.
 
 ## Updating the listing
 
