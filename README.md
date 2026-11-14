@@ -1,5 +1,7 @@
 # Garak's Shop VPM
 
+日本語版: [README.ja.md](README.ja.md)
+
 VPM (VRChat Package Manager) listing for the VRChat Creator Companion (VCC). Packages by Garak's Shop are listed here; the listing itself is built by GitHub Actions from [`source.json`](source.json) and published on GitHub Pages.
 
 ## Add to VCC
